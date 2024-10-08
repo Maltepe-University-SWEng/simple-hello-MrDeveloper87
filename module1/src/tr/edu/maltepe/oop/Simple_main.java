@@ -3,6 +3,6 @@ public class Simple_main{
 
  public static void main(String []args){
         //
-       System.out.println("Yavuz Yaman.");
+       System.out.println("Yavuz Yaman");
         }
 }
